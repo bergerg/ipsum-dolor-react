@@ -1,0 +1,3 @@
+GET     /                           controllers.FrontendController.index()
+GET     /post/:id                   controllers.MainController.getComments(id: String)
+GET     /*file                      controllers.FrontendController.assetOrDefault(file)

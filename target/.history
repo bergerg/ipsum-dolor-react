@@ -1,0 +1,13 @@
+compile
+run
+compile
+reload
+compile
+run
+dist
+compile
+dist
+Docker/publishLocal
+clean
+compile
+run
