@@ -28,4 +28,4 @@ $ cd ../ && sbt run
 
 #### Closing
 
-In terminal, where the `sbt run` command is running, stop the web-server by pressing `Enter`
+In terminal, where the `sbt run` command is running, stop the web-server by pressing `Ctrl-C`
